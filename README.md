@@ -33,3 +33,15 @@ It turns out when players don’t trade, only the smallest (brown) and most powe
   - Each player hits 100 turns (so games don’t go forever)
 
 ---
+
+# What’s Missing / Why It’s Weird
+
+There’s no trading, which massively changes the game. In real Monopoly, trading is essential for getting monopolies — but here, since no one trades, only the two-property color groups (brown and dark blue) tend to get completed. That’s why they almost always win.
+
+Also:
+- No Chance or Community Chest cards
+- No Jail logic (nobody gets stuck)
+- Players don’t try to avoid bankrupting each other or hold on to cash strategically
+
+It’s a simple rule-based simulation — but it gives a cool look into how *structure alone* can shape a game.
+
