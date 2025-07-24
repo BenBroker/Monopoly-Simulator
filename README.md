@@ -1,5 +1,5 @@
 # Monopoly-Simulator
-What properties are the best in Monopoly? How can you guarantee a win every time? (You obviously can't, only read through this to gain a minor advantage :))
+What properties are the best in Monopoly? How can you guarantee a win every time? (You obviously can't, but read through this to gain a minor advantage :))
 
 This project simulates full games of Monopoly using Python — four players, real property buying, house building, bankruptcies, and a winner at the end. I built it to explore how Monopoly plays out when you remove player trading (spoiler: the brown and dark blue properties win way more than they should).
 
